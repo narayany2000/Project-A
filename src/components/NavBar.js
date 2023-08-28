@@ -14,7 +14,7 @@ const NavBar = () => {
           </form>
           <ul>
             <li>
-              <a href="">Home</a>
+              <Link to="/Home">Home</Link>
             </li>
             <li>
               <a href="">About</a>
