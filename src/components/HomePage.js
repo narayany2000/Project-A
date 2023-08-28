@@ -40,9 +40,6 @@ function HomePage() {
                 src="https://zimiorganics.com/blog/images/1.jpg"
                 alt="Image 1"
               />
-              <h8 className="por7">
-                "Crafting Wellness with Love: Your Journey to Organic Bliss"
-              </h8>
 
               <div class="container containerb">
                 <div class="carousel-caption text-start"></div>
@@ -54,7 +51,13 @@ function HomePage() {
                 src="https://agriculturepost.com/wp-content/uploads/2020/09/5-schemes-promoting-organic-farming-in-India.jpg"
                 alt="Image 1"
               />
-              <h8 className="por5">Welcome to Eco-Choice</h8>
+              <div class="carousel-caption">
+                <h1 class="por12">Nature's Cart: Your Organic Haven</h1>
+                <p class="por11">
+                  Explore a World of Organic Delights – Where Health Meets
+                  Sustainability
+                </p>
+              </div>
               <div class="container containerb">
                 <div class="carousel-caption"></div>
               </div>
@@ -65,9 +68,7 @@ function HomePage() {
                 src="https://www.wegmans.com/wp-content/uploads/1097052-hero-wegmans-organic-farm-1.jpg"
                 alt="Image 1"
               />
-              <h8 className="por6">
-                "Discover the Purity of Nature through Our Organic Creations"
-              </h8>
+
               <div class="container containerb">
                 <div class="carousel-caption text-end"></div>
               </div>
@@ -126,36 +127,22 @@ function HomePage() {
 
         <div class="row featurette">
           <div class="col-md-7">
-            <h2 class="featurette-heading fw-normal lh-1">
-              First featurette heading.
-              <span class="text-body-secondary">It’ll blow your mind.</span>
+            <h2 class="featurette-heading fw-normal lh-1 por10">
+              Embracing Nature's Finest
             </h2>
             <p class="lead">
-              Some great placeholder content for the first featurette here.
-              Imagine some exciting prose here.
+              Natural products harness the inherent goodness of the Earth.
+              They're crafted with minimal processing, preserving the integrity
+              of their ingredients. Choosing natural means opting for
+              simplicity, allowing the potency of nature to enrich our lives.
             </p>
           </div>
           <div class="col-md-5">
-            <svg
-              class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
-              width="500"
-              height="500"
-              xmlns="http://www.w3.org/2000/svg"
-              role="img"
-              aria-label="Placeholder: 500x500"
-              preserveAspectRatio="xMidYMid slice"
-              focusable="false"
-            >
-              <title>Placeholder</title>
-              <rect
-                width="100%"
-                height="100%"
-                fill="var(--bs-secondary-bg)"
-              ></rect>
-              <text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">
-                500x500
-              </text>
-            </svg>
+            <img
+              class="d-block w-100 por9"
+              src="https://img.freepik.com/premium-vector/100-percent-natural-product-label-stamp-badge-vector_545399-1100.jpg"
+              alt="Image 1"
+            />
           </div>
         </div>
 
@@ -163,37 +150,22 @@ function HomePage() {
 
         <div class="row featurette">
           <div class="col-md-7 order-md-2">
-            <h2 class="featurette-heading fw-normal lh-1">
-              Oh yeah, it’s that good.
-              <span class="text-body-secondary">See for yourself.</span>
+            <h2 class="featurette-heading fw-normal lh-1 por10">
+              The Essence of Organic Products
             </h2>
             <p class="lead">
-              Another featurette? Of course. More placeholder content here to
-              give you an idea of how this layout would work with some actual
-              real-world content in place.
+              Organic products: pure, sustainable, and natural. With no
+              synthetic additives, they offer a genuine way to enhance our lives
+              while caring for the Earth. Make the choice for health and the
+              environment by embracing the organic difference.
             </p>
           </div>
           <div class="col-md-5 order-md-1">
-            <svg
-              class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
-              width="500"
-              height="500"
-              xmlns="http://www.w3.org/2000/svg"
-              role="img"
-              aria-label="Placeholder: 500x500"
-              preserveAspectRatio="xMidYMid slice"
-              focusable="false"
-            >
-              <title>Placeholder</title>
-              <rect
-                width="100%"
-                height="100%"
-                fill="var(--bs-secondary-bg)"
-              ></rect>
-              <text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">
-                500x500
-              </text>
-            </svg>
+            <img
+              class="d-block w-100 por9"
+              src="https://img.freepik.com/free-vector/pure-natural-organic-label-badge_1017-26210.jpg?q=10&h=200"
+              alt="Image 1"
+            />
           </div>
         </div>
 
@@ -201,42 +173,59 @@ function HomePage() {
 
         <div class="row featurette">
           <div class="col-md-7">
-            <h2 class="featurette-heading fw-normal lh-1">
-              And lastly, this one.
-              <span class="text-body-secondary">Checkmate.</span>
+            <h2 class="featurette-heading fw-normal lh-1 por10">
+              Prioritizing Wellness
             </h2>
             <p class="lead">
-              And yes, this is the last block of representative placeholder
-              content. Again, not really intended to be actually read, simply
-              here to give you a better view of what this would look like with
-              some actual content. Your content.
+              Healthy products are more than just items; they're pathways to a
+              better lifestyle. By selecting these products, you're making a
+              conscious choice to nurture your well-being. Each product is a
+              step towards a healthier, happier you.
             </p>
           </div>
           <div class="col-md-5">
-            <svg
-              class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
-              width="500"
-              height="500"
-              xmlns="http://www.w3.org/2000/svg"
-              role="img"
-              aria-label="Placeholder: 500x500"
-              preserveAspectRatio="xMidYMid slice"
-              focusable="false"
-            >
-              <title>Placeholder</title>
-              <rect
-                width="100%"
-                height="100%"
-                fill="var(--bs-secondary-bg)"
-              ></rect>
-              <text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">
-                500x500
-              </text>
-            </svg>
+            <img
+              class="d-block w-100 por9"
+              src="https://img.freepik.com/free-vector/hand-drawn-healthy-food-logo-template_23-2149641244.jpg?w=2000"
+              alt="Image 1"
+            />
           </div>
         </div>
-
+      </div>
+      <div className='por13'>
         <hr class="featurette-divider" />
+        <div class="containerc">
+          <footer class="py-3 my-4">
+            <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+              <li class="nav-item">
+                <a href="#" class="nav-link px-2 text-body-secondary">
+                  Home
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link px-2 text-body-secondary">
+                  Features
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link px-2 text-body-secondary">
+                  Pricing
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link px-2 text-body-secondary">
+                  FAQs
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link px-2 text-body-secondary">
+                  About
+                </a>
+              </li>
+            </ul>
+            <p class="text-center text-body-secondary">Eco-Choice© 2023 Company, Inc</p>
+          </footer>
+        </div>
       </div>
     </>
   );
