@@ -10,6 +10,7 @@ import updateProduct from './components/updateProduct';
 import FarmerviewProduct from './components/FarmerviewProduct';
 import About from './components/About';
 import Customer from './components/Customer';
+import HomePage from './components/HomePage';
 function App() {
   return (
     <>
@@ -18,6 +19,7 @@ function App() {
     <NavBar/>
      
       <Routes>
+      <Route path='/Home' Component={HomePage}></Route>
       <Route path='/About' Component={About}></Route>
       <Route path='/Login' Component={Login}></Route>
       <Route path='/RegistrationForm' Component={RegistrationForm}></Route>
