@@ -103,7 +103,7 @@ function HomePage() {
               src="https://www.dahu.bio/images/photos/agriculture/organic-product.jpg"
               alt="Image 1"
             />
-            <h2 class="fw-normal">Heading</h2>
+            <h2 class="fw-normal">100% Natural</h2>
           </div>
           <div class="col-lg-4">
             <img
@@ -111,7 +111,7 @@ function HomePage() {
               src="https://5.imimg.com/data5/DW/VD/HC/SELLER-1035160/organic-grains.jpg"
               alt="Image 1"
             />
-            <h2 class="fw-normal">Heading</h2>
+            <h2 class="fw-normal">100% Healthy</h2>
           </div>
           <div class="col-lg-4">
             <img
@@ -119,7 +119,7 @@ function HomePage() {
               src="https://www.healthkart.com/connect/wp-content/uploads/2016/07/banner-26.jpg"
               alt="Image 1"
             />
-            <h2 class="fw-normal">Heading</h2>
+            <h2 class="fw-normal">100% Natural</h2>
           </div>
         </div>
 
@@ -223,7 +223,7 @@ function HomePage() {
                 </a>
               </li>
             </ul>
-            <p class="text-center text-body-secondary">Eco-Choice© 2023 Company, Inc</p>
+            <p class="text-center text-body-secondary">Eco-Choice © 2023 Company, Inc</p>
           </footer>
         </div>
       </div>
